@@ -1,3 +1,8 @@
+# Question :  The time-period of a simple pendulum is 4 s and it can go to and fro from equilibriu position at a maximum distance of 10 cm. 
+# If at the start of the motion the pendulum is in the position nt maximum displacement towards the right of the equilibrium position, 
+# then write the displacement eguation of the pendulum.
+# .........................................................solution by shubham.......................................................
+
 import sympy as sp
 
 # Define the time symbol
