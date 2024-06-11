@@ -2,8 +2,8 @@ import math
 
 # Given data
 force_constant = 2400 
-mass = 6.0  # kg
-displacement = 0.04  # m (4.0 cm)
+mass = 6.0
+displacement = 0.04
 compression_displacement = 0.02  # m (2.0 cm)
 
 # (a) Frequency of oscillation
