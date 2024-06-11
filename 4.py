@@ -4,7 +4,7 @@ import math
 force_constant = 2400 
 mass = 6.0
 displacement = 0.04
-compression_displacement = 0.02  # m (2.0 cm)
+compression_displacement = 0.02
 
 # (a) Frequency of oscillation
 frequency = (1 / (2 * math.pi)) * math.sqrt(force_constant / mass)
