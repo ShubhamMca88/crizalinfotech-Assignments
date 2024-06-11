@@ -9,8 +9,8 @@ import sympy as sp
 t = sp.symbols('t')
 
 # Given values
-A = 0.1  # Amplitude in meters (10 cm)
-T = 4  # Time period in seconds
+A = 0.1
+T = 4
 
 # Calculate the angular frequency
 omega = 2 * sp.pi / T
