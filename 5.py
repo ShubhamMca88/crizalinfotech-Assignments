@@ -1,8 +1,8 @@
 import math
 
 # Given data
-initial_length = 1.0  # in meters, assuming initial length is 1m for simplicity
-initial_g = 9.8  # in m/s^2
+initial_length = 1.0
+initial_g = 9.8
 
 # Initial period calculation
 initial_period = 2 * math.pi * math.sqrt(initial_length / initial_g)
