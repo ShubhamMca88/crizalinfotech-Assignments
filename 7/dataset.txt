@@ -1,0 +1,2 @@
+Develop a text clustering pipeline using MeTA’s K-means clustering. Preprocess the text data, apply K-means clustering, and output the cluster
+centroids. Implement a method to evaluate clustering quality using silhouette score. Provide a sample dataset and script.
