@@ -1,3 +1,14 @@
+# Question 4 : A light spring of force-constant 2400 N m'is mounted on a horizontal table. A 6.0 kg mass is attached to the free end of the spring, 
+# pulled sideways to a distance of 4.0 cm and released. Find 
+# (a) frequency of oscillation of the mass, 
+# (b) maximum acceleration of the mass, 
+# (c) the maximum speed of the mass, 
+# (d) speed of the mass when the spring is compressed by 2.0 cm, 
+# (e) potential energy of the mass when it momentarily comes to rest, 
+# (f) total energy of the oscillating mass.
+
+# .........................................................solution by shubham.......................................................
+
 import math
 
 # Given data

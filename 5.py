@@ -1,3 +1,11 @@
+# Question 5 : Calculate the percentage change in the periodic-time of a simple pendulum, if 
+# (i) the lane of the pendulum be increased 5%, 
+# (ii) the mass of the bob be increased 40%, 
+# (iii) the Oscillation amplitude be decreased 10% and 
+# (iv) the pendulum be taken to a place where the value of g be 0.16% more.
+
+# .........................................................solution by shubham.......................................................
+
 import math
 
 # Given data

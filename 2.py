@@ -1,5 +1,6 @@
-# Question : A block is resting on a piston which is moving vertically in simple harmonic motion of period 2.0 s. At what amplitude of motion will the
+# Question 2 : A block is resting on a piston which is moving vertically in simple harmonic motion of period 2.0 s. At what amplitude of motion will the
 # block and piston separate? What is the maximum velocity of the piston at this amplitude?
+
 # .........................................................solution by shubham.......................................................
 
 import math
